@@ -147,24 +147,3 @@ In this exercise, you are to write a program that prompts the user with **"Pleas
 Refer to the sample inputs and outputs provided on exactly how to format your I/O. Specifically, the numbers should be separated by a comma and one space. There should be no space before the first number. And there should be a newline immediately after the "1" which ends the sequence. The numbers in the input are assumed to be in decimal format. Name the file with your program **ex6.c**.
 
 -------------------------------------------------------------
-
-* * *
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
